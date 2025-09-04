@@ -101,8 +101,10 @@ Step 19: Login to Kali Linux
 1.	Once the machine reboots, you’ll be presented with a login screen.
 2.	Log in using the root account and the password you set earlier.
 <img width="1137" height="902" alt="image" src="https://github.com/user-attachments/assets/3d6d9ffb-7cab-43b4-a938-0e501a6527f7" />
-EXPECTED OUTPUT
-# .sh method
+
+
+# EXPECTED OUTPUT
+.sh method
 PROGRAM
 
 <img width="1083" height="72" alt="image" src="https://github.com/user-attachments/assets/8fcbc16b-dfff-4297-8a7c-0283d31a2962" />
